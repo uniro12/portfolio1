@@ -32,3 +32,6 @@
     color: white;
     border-bottom: 2px solid rgb(110, 110, 110);
 }
+.card-title, .card-text {
+    color: black;
+}
