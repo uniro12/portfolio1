@@ -35,3 +35,7 @@
 .card-title, .card-text {
     color: black;
 }
+.card-body {
+    background-color: rgb(163, 163, 163);
+    box-shadow: 0 20 20 black;
+}
